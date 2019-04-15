@@ -1,0 +1,22 @@
+.counter {
+  font-size: 5em;
+}
+
+.changeButtons {
+  width: 30vw;
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+}
+
+.changeButtons button {
+  height: 100%;
+  width: 30%;
+  font-size: 3em;
+}
+
+.reset {
+  height: 10vh;
+  width: 20vw;
+  font-size: 3em;
+}

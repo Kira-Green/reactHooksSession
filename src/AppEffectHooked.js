@@ -6,7 +6,8 @@
 
 // 	useEffect(() => {
 // 		setCount(Math.floor(Math.random() * 100));
-// 	}, []);
+// 	}, []);     blank array tells it to only do it on mount not every change
+// array can hold values that tell it what to look for
 
 // 	return (
 // 		<>
